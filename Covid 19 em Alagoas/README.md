@@ -1,4 +1,4 @@
-#Covid 19 
+# Covid 19 
 - Dados
 O dataset é baseado nos dados do covid 19 no estado de alagoas, esses dados vão desde 2020 do primeiro caso registrado no estado até junho de 2022. É composto pelas seguintes informações:
   - Idade – Idade de cada paciente
