@@ -10,6 +10,7 @@ O dataset é baseado nos dados da covid 19 no estado de alagoas, esses dados vã
   - Data de serviço – O dia do atendimento
   - Data de óbito – Data do óbito dos pacientes de faleceram
   - Data de confirmação do exame – Data do resultado positivo
+Possível acessar os dados por esse link: https://dados.al.gov.br/catalogo/dataset/painel-covid-19-em-alagoas
 
 ## Temas técnicos abordados
 - Tratamento de dados
