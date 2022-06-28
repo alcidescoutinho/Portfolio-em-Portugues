@@ -1,6 +1,6 @@
 # Covid 19 
 - Dados
-O dataset é baseado nos dados do covid 19 no estado de alagoas, esses dados vão desde 2020 do primeiro caso registrado no estado até junho de 2022. É composto pelas seguintes informações:
+O dataset é baseado nos dados da covid 19 no estado de alagoas, esses dados vão desde 2020 do primeiro caso registrado no estado até junho de 2022. É composto pelas seguintes informações:
   - Idade – Idade de cada paciente
   - Sexo – Sexo de cada paciente
   - Cidade – Qual a cidade alagoana 
@@ -11,3 +11,11 @@ O dataset é baseado nos dados do covid 19 no estado de alagoas, esses dados vã
   - Data de óbito – Data do óbito dos pacientes de faleceram
   - Data de confirmação do exame – Data do resultado positivo
 
+## Temas técnicos abordados
+- Tratamento de dados
+  - Manipulação de strings (ortografia e separação de classes)
+  - Manipulação de dados em geral
+- EDA
+  - Estatística em geral para as análises
+  - Visualização gráfica com Seaborn 
+  - Série Temporal
