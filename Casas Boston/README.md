@@ -4,7 +4,22 @@
 
 Link para acessar aos dados: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview
 
-
+# Plano de análise
+Autor: Alcides Coutinho
+Contado: Presente na página inicial do GitHub
+Objetivo: Melhor modelo de previsão com os modelos propostos
+- Engenharia de Atributo 
+  - Quais dados são qualitativos e quantitativos?
+  - Quais dados quantitaviso apresentam um coeficiente de variação maior que 100%?
+  - Quais dados apresentam um viés alto para uma característica?
+  - Possível aproveitar esses dados sem descartar?
+  - Há dados redundantes?
+  - Aplicar o encoder melhora o resultado?
+  
+- Machine Learning
+  - Voting
+    - Quais modelos se encaixam para o voting?
+    - Quais as features que mais apresentam importância?
 
 # Informações sobre as técnicas utilizadas
 - ## Engenharia de Atributos
