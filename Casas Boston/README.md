@@ -8,7 +8,7 @@ Link para acesso ao dado https://www.kaggle.com/competitions/house-prices-advanc
 Autor: Alcides Coutinho
 Contado: Presente na página inicial do GitHub
 Objetivo: Melhor modelo de previsão com os modelos propostos
-- Engenharia de Atributo 
+- <b/> Engenharia de Atributo </b>
   - Quais dados são qualitativos e quantitativos?
   - Quais dados quantitativos apresentam um coeficiente de variação maior que 100%?
   - Quais dados apresentam um viés alto para uma característica?
@@ -16,12 +16,12 @@ Objetivo: Melhor modelo de previsão com os modelos propostos
   - Há dados redundantes?
   - Aplicar o encoder melhora o resultado?
   
-- Machine Learning
-  - Voting
+- <b/> Machine Learning </b>
+  - <i/> Voting </i>
     - Quais modelos se encaixam para o voting?
     - Quais as features que mais apresentam importância?
     - Qual o melhor resultado obtido?
-  - Rede Neural
+  - <i/> Rede Neural </i>
     - Quais parâmetros se enquadram mais para a rede neural?
     - Qual o melhor resultado obtido?
 
