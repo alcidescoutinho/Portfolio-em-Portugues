@@ -22,10 +22,11 @@ Com os dados em mãos o jovem cientista de dados busca responder algumas indaga�
   - Média das notas dessas avaliações
   - Se só há ofertas para cientista de dados
  
+ 
  - Visão específica dos dados
-  - Estudo mais preciso sobre as vagas para trabalho remoto.
-  - Montar um mapa de calor das ofertas de vagas para trabalho remoto.
-  - Selecionar as 3 melhores vagas com alguns critérios (Sendo um dos principais o crescimento dentro da empresa)
+   - Estudo mais preciso sobre as vagas para trabalho remoto.
+   - Montar um mapa de calor das ofertas de vagas para trabalho remoto.
+    - Selecionar as 3 melhores vagas com alguns critérios (Sendo um dos principais o crescimento dentro da empresa)
 
 
 <h3>Informações Técnicas</h3>
