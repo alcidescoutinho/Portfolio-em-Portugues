@@ -1,6 +1,6 @@
 <h1>Web Scraping: Um futuro cientista de dados</h1>
 <h3>Problematica</h3>
-Nesse trabalho de análise de dados foi simulado que um jovem cientista de dados está em busca do seu primeiro emprego na área, mas ele ecnotra certas limitações na sua 
+Nesse trabalho de análise de dados foi simulado que um jovem cientista de dados está em busca do seu primeiro emprego na área, mas ele encontra certas limitações na sua 
 busca, já que procura uma um trabalho remoto, então ele decide fazer um algoritmo que tenha as seguintes funcionalidades, como:
 
 - Coletar os dados diretamente no site, sendo esses dados:
