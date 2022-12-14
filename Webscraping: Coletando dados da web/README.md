@@ -14,7 +14,6 @@ alterados como nome das empresas e links do site, mas o restante do código segu
 - O nome da empresa
 - A avaliação da empresa
 - Local de trabalho 
-- A quanto tempo a vaga foi publicada. 
 
 <h2>Objetivos do modelo</h2> 
   
@@ -24,16 +23,13 @@ alterados como nome das empresas e links do site, mas o restante do código segu
   
   - web scraping
   - tratamento de dados
-  - criação de funções
-  - criação de gráficos 
   - EDA (exploratory data analysis)
-  
-<h2>Road map do modelo</h2> 
-  
-![Blank diagram (3)](https://user-images.githubusercontent.com/105241604/194344557-1c460739-651b-4e48-bfb1-1c65e283acf0.png)
 
 <h2>Plano de análise</h2>
 
+
+- Coleta dos dados:
+- Tratamento dos dados:
 - Visão geral dos dados:
   - Quantas vagas e qual o nível de experiência?
   - Timeline das datas postadas?
